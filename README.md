@@ -1,3 +1,6 @@
+# Online Resume
+https://abdullaharshad0sa.github.io/
+
 # Analytics Engineering Portfolio
 
 A collection of production data pipelines and analytics solutions demonstrating expertise in data modeling, pipeline orchestration, data quality, and business intelligence infrastructure.
