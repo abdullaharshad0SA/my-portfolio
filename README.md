@@ -133,8 +133,6 @@ All pipelines implement strict data governance patterns:
 - **Device ID Hashing**: SHA256 hashing for sensitive device identifiers
 - **Structured Access Controls**: Role-based data filtering based on user geography and consent status
 
-See [ARCHITECTURE.md](./ARCHITECTURE.md) for technical details.
-
 ---
 
 ## 📈 Key Patterns & Learnings
@@ -157,20 +155,7 @@ See [ARCHITECTURE.md](./ARCHITECTURE.md) for technical details.
 
 ---
 
-## 💡 For Recruiters / Hiring Managers
-
-This portfolio demonstrates readiness for Analytics Engineering roles through:
-
-1. **Infrastructure Thinking**: Designing scalable, self-service platforms rather than one-off reports
-2. **Data Quality**: Building validation frameworks and monitoring systems to catch silent failures
-3. **Operational Complexity**: Handling real production constraints (distributed systems, PII compliance, multi-destination delivery)
-4. **SQL + Code**: Bridging analytics and engineering with strong Python fundamentals and optimized SQL
-5. **Business Impact**: Solutions that directly saved analyst hours and improved data reliability
-
----
-
 ## 📋 Structure
-
 ```
 .
 ├── README.md                              # This file
@@ -184,13 +169,6 @@ This portfolio demonstrates readiness for Analytics Engineering roles through:
 ├── reach-frequency-analysis/
 └── sql-models/
 ```
-
-Each project folder contains:
-- `README.md` - Problem statement, solution architecture, key code snippets
-- `*.py` - Production-ready Python scripts
-- `*.sql` - SQL queries and dbt models (where applicable)
-
----
 
 ## 📝 Notes
 
