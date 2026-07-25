@@ -159,7 +159,6 @@ All pipelines implement strict data governance patterns:
 ```
 .
 ├── README.md                              # This file
-├── ARCHITECTURE.md                        # Technical patterns & shared functions
 ├── .gitignore
 ├── data-quality-validation/
 ├── identity-resolution-pipeline/
